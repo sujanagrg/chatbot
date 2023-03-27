@@ -4,3 +4,5 @@ This is a chatbot built with Flutter and Dialogflow that responds to user messag
 
 Customizing the Chatbot:
 You can customize the chatbot's responses by modifying the agent's intents and responses in Dialogflow. You can also customize the chatbot's appearance by modifying the UI in your Flutter app.
+
+I welcome constructive criticism for this project. So please don't hesitate to share your feedback with me. Thank you!
