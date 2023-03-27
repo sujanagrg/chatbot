@@ -76,7 +76,9 @@ void _showDialog(BuildContext context) {
           textAlign: TextAlign.center,
         ),
         content: new Text(
-            "I'm created using Flutter and DialogFlow. Feel free to ask me anything in a conversational way. I'm constantly learning and adapting to better serve you, and I'm always here to help you 24/7. I'm always here to lend an ear. Let's get started!"),
+          "I'm created using Flutter and DialogFlow. Feel free to ask me anything in a conversational way. I'm constantly learning and adapting to better serve you, and I'm always here to help you 24/7. I'm always here to lend an ear. Let's get started!",
+          textAlign: TextAlign.center,
+        ),
         actions: <Widget>[
           TextButton(
             child: new Text("Close"),
